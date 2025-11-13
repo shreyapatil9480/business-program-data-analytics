@@ -28,3 +28,10 @@ jupyter notebook notebooks/case_study.ipynb
 python src/train.py
 python src/predict.py --input data/sample_input.csv
 ```
+
+## Next Steps
+
+Containerize training pipeline for scheduled retraining.
+
+---
+*Analytics portfolio project — 2025-10*
